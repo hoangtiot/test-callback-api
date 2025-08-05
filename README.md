@@ -51,7 +51,7 @@ A comprehensive Flask-based callback API server for handling IRAS (Inland Revenu
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/hoangtiot/test-callback-api-a83g.git
+   git clone https://github.com/hoangtiot/test-callback-api.git
    cd test-callback-api-a83g
    ```
 
